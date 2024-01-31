@@ -104,6 +104,23 @@ clear and concise formulation for these mathematical assertions. Through these
 concerted efforts, this study has bridged the gap in knowledge, enriching the
 discourse in this domain.
 
+Limitations of the Research:
+As with any study, the path undertaken in this research is not devoid of limitations. The limitations encompassed in this work—whether stemming from
+the scope of mathematical formalism, the intricacies of theoretical assumptions
+or time—serve as signposts for future explorations. These limitations, while
+guiding the trajectory of this study, also pave the way for future scholars to
+tread further upon this trajectory, to unveil even greater layers of insight and
+understanding. An essential aspect to acknowledge in our research lies in the
+constraint of our construction to analytic initial functions. Although it is recognized that this is a technical limitation arising from the mathematical theorems.
+However, I firmly believe that the physical scenario we’ve explored—a null weak
+singularity—will indeed manifest even if the initial functions on S are not analytic. This belief holds, provided that these initial functions remain adequately
+smooth for v < 0 [1]. It’s noteworthy that the progression of time has also
+exerted an influence on the trajectory of our research, influencing the depth to
+which we could delve. As we conclude this phase of investigation, we recognize
+the potential for future explorations to transcend these limitations, unveiling
+even greater depths of understanding in the captivating realm of theoretical
+physics.
+
 
 Credits:
 
