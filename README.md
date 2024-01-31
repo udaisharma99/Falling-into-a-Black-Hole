@@ -46,6 +46,63 @@ geodesic deviation equations are formulated in a 2-dimensional space with the
 same constraints that were used to prove the existence of a weak space-time
 singularity
 
+Results:
+
+The definition of our parameter s is such that, at s=0, the geodesic congruence
+encounters a singularity. We can see that as s approaches zero, V(s) approaches
+zero. Hence, as we move along the congruence, the volume encompassed by the
+Jacobi fields tends to zero. For an observer falling into a black hole, we can
+conclude that an observer would be crushed completely. Hence, calculating the
+volume of these Jacobi fields at s=0 provides us a way to examine the nature
+of the singularity. In the case of a Schwarzchild black hole, The volume goes to
+zero at the point of singularity; the nature of the singularity is deemed to be
+strong and space-like. Further, we can look at the individual behaviour of the
+Jacobi fields at s=0 as well. Since,
+
+
+<img width="372" alt="image" src="https://github.com/udaisharma99/Falling-into-a-Black-Hole/assets/138836370/9258c73d-b087-4f1c-8eda-804403960530">
+
+<img width="372" alt="image" src="https://github.com/udaisharma99/Falling-into-a-Black-Hole/assets/138836370/94de2944-d349-4029-af7f-ad68d971ee0f">
+
+
+
+We can infer that an observer falling into a Schwarzschild
+black hole will be infinitely stretched along the radial direction and will be
+completely crushed along the tangential and azimuthal directions. This phenomenon is called Spaghettification, where the tidal forces create a gradient of
+gravitational attraction across your body. The side of the body closer to the
+black hole experiences a stronger gravitational pull than the other side. This
+difference in gravitational pull can stretch and compress the body
+
+Additionally, we’ve established the presence
+of a generic set of solutions to Einstein’s Field Equations. These solutions
+encompass a particular class that displays a weak and null singularity at the
+v=0 hypersurface. Furthermore, we’ve developed the geodesic equations and
+geodesic deviation equations within a two-dimensional spatial context. These
+equations pertain to the motion of a timelike geodesic as it descends towards
+the v=0 hypersurface
+
+Summary of the Research:
+A cornerstone of this study lies in the insights drawn from prior research in
+the realm of black hole physics and spacetime singularities. The investigation
+starts with comprehending the nature of the singularity residing at the heart of
+a Schwarzschild black hole, serving as a fundamental example. This exploration
+then extends its reach into the focal point of this research, a more intricate and
+rigorous realm of functionally generic null and weak singularities. In this part,
+we proved the presence of the corresponding singularity and derived the geodesic
+and geodesic deviation equations, showcasing how the geodesic congruences are
+affected in regions of singularities. The heart of this study involves meticulous
+mathematical analysis, drawing insights from diverse mathematical disciplines
+such as tensor calculus, differential geometry, and partial differential equations.
+These varied tools of mathematics are then practically employed through the
+utilization of Mathematica, a user-friendly software by Wolfram that provides
+an accessible means of executing computational mathematics. The objective
+of this research was to fill in the mathematical propositions presented in [1], a
+work that has remained unpublished. This study achieved its goal by crafting a
+clear and concise formulation for these mathematical assertions. Through these
+concerted efforts, this study has bridged the gap in knowledge, enriching the
+discourse in this domain.
+
+
 Credits:
 
 [1] Ori, A., & Flanagan, E. E. (1996). How generic are null spacetime singularities?. Physical Review D, 53(4), R1754.
