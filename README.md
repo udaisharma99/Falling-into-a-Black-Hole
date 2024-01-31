@@ -1,6 +1,7 @@
 # Exploring the Nature of Black Hole Singularities: An Investigation into the Fate of an Infalling Observer
-
+<center>
 <img width="363" alt="image" src="https://github.com/udaisharma99/Falling-into-a-Black-Hole/assets/138836370/5ead4d7a-b8ff-4bd6-9aa8-bcac542cb1b8">
+</center>
 
 
 # Research Aim
