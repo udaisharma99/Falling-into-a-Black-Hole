@@ -30,7 +30,7 @@ inside a black hole. Even after such strong evidence of the existence of spaceti
 singularities provides us with an opportunity to uncover a new layer of reality
 that emerges under extreme conditions of gravity
 
-# Research Approach:
+# Research Methodology:
 
 The study starts with getting to grips with the calculation of tensor’s associated
 with general relativity such as the Riemann curvature tensor and the Ricci tensor. Further, the geodesic equations and the geodesic deviation equations for a
