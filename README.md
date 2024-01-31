@@ -43,14 +43,25 @@ extreme conditions of gravity
 
 Credits:
 [1] Ori, A., & Flanagan, E. E. (1996). How generic are null spacetime singularities?. Physical Review D, 53(4), R1754.
+
 [2] Tipler, F. J. (1977). Singularities in conformally flat spacetimes. Physics Letters A, 64(1), 8-10.
+
 [3] Poisson, E., & Israel, W. (1990). Phys. Rev. D 41, 1796.
+
 [4] Ori, A. (1991). Phys. Rev. Lett. 67, 789.
+
 [5] Bonano, A., et al. (1995). Proc. R. Soc. London A450, 553; Brady, P. R., & Smith, J. D. (1995). Phys. Rev. Lett. 75, 1256.
+
 [6] Ori, A. (1992). Phys. Rev. Lett. 68, 2117
+
 [7] Yurtsever, U. (1993). Class. Quantum Grav. 10, L17.
+
 [8]. Flanagan, B. E., & Ori, A. (unpublished).
+
 [9] Belinsky, V. A., & Khalatnikov, I. M. (1970). Sov. Phys. JETP 30, 1174; Khalatnikov, I. M., & Lifshitz, E. M. (1970). Phys. Rev. Lett. 24, 76; Belinsky, V. A., Khalatnikov, I. M., & Lifshitz, B. M. (1970). Adv. Phys. 19, 525.
+
 [10] Poisson, E. (2004). A Relativist's Toolkit: The Mathematics of Black-Hole Mechanics. Cambridge University Press. Figure 1.1, Chapter 1, Page 3.
+
 [11] Poisson, E. (2004). A Relativist's Toolkit: The Mathematics of Black-Hole Mechanics. Cambridge University Press. Figure 1.3, Chapter 1, Page 17.
+
 [12]Poisson, E. (2004). A Relativist's Toolkit: The Mathematics of Black-Hole Mechanics. Cambridge University Press. Figure 2.5, Chapter 2, Page 41.
