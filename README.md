@@ -77,13 +77,16 @@ gravitational attraction across your body. The side of the body closer to the
 black hole experiences a stronger gravitational pull than the other side. This
 difference in gravitational pull can stretch and compress the body
 
-Additionally, we’ve established the presence
+Additionally, The study through meticulous mathematical analysis fills in the claims used by Ori and Flanagan to established the presence
 of a generic set of solutions to Einstein’s Field Equations. These solutions
 encompass a particular class that displays a weak and null singularity at the
 v=0 hypersurface. Furthermore, we’ve developed the geodesic equations and
 geodesic deviation equations within a two-dimensional spatial context. These
 equations pertain to the motion of a timelike geodesic as it descends towards
-the v=0 hypersurface
+the v=0 hypersurface.
+
+<img width="477" alt="image" src="https://github.com/udaisharma99/Falling-into-a-Black-Hole/assets/138836370/c0ab9842-8331-493f-9707-7a85bb6bd174">
+
 
 # Summary of the Research:
 
