@@ -52,6 +52,7 @@ Results:
 <img width="806" alt="image" src="https://github.com/udaisharma99/Falling-into-a-Black-Hole/assets/138836370/a4ed4d27-67a0-4506-84ed-b07c78430a1c">
 
 
+
 The definition of our parameter s is such that, at s=0, the geodesic congruence
 encounters a singularity. We can see that as s approaches zero, V(s) approaches
 zero. Hence, as we move along the congruence, the volume encompassed by the
@@ -64,6 +65,7 @@ strong and space-like. Further, we can look at the individual behaviour of the
 Jacobi fields at s=0 as well. Since,
 
 <img width="806" alt="image" src="https://github.com/udaisharma99/Falling-into-a-Black-Hole/assets/138836370/18a5a4f1-086f-4a1c-9e8b-06303df2a76a">
+
 
 
 We can infer that an observer falling into a Schwarzschild
