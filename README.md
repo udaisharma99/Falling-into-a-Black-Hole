@@ -1,5 +1,4 @@
 # Exploring the Nature of Black Hole Singularities: An Investigation into the Fate of an Infalling Observer
-<center>yo</center>
 
 
 # Research Aim
