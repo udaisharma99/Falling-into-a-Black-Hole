@@ -62,6 +62,7 @@ Jacobi fields at s=0 as well. Since,
 
 <img width="372" alt="image" src="https://github.com/udaisharma99/Falling-into-a-Black-Hole/assets/138836370/9258c73d-b087-4f1c-8eda-804403960530">
 
+
 <img width="372" alt="image" src="https://github.com/udaisharma99/Falling-into-a-Black-Hole/assets/138836370/94de2944-d349-4029-af7f-ad68d971ee0f">
 
 
