@@ -1,5 +1,6 @@
 # Exploring the Nature of Black Hole Singularities: An Investigation into the Fate of an Infalling Observer
 
+# Research Aim
 The study aims to understand the effects of these regions of extreme gravitational strength, i.e. singularities on an extended body following a time-like
 geodesic that encounters a singularity. The study answers the following questions:
 
@@ -8,7 +9,7 @@ geodesic that encounters a singularity. The study answers the following question
 3. Can Einstein’s equations yield a generic class of solutions that admit a null and weak space-time singularity?
 4. What is the fate of an extended body as it moves along a time-like geodesic and falls into a null and weak space-time singularity?
 
-Motivation for Research:
+# Motivation for Research:
 
 General relativity has been a well established theory for more than a hundred
 years, it provided a theoretical framework that revolutionised our knowledge
@@ -28,7 +29,7 @@ inside a black hole. Even after such strong evidence of the existence of spaceti
 singularities provides us with an opportunity to uncover a new layer of reality
 that emerges under extreme conditions of gravity
 
-Research Approach:
+# Research Approach:
 
 The study starts with getting to grips with the calculation of tensor’s associated
 with general relativity such as the Riemann curvature tensor and the Ricci tensor. Further, the geodesic equations and the geodesic deviation equations for a
@@ -46,7 +47,7 @@ geodesic deviation equations are formulated in a 2-dimensional space with the
 same constraints that were used to prove the existence of a weak space-time
 singularity
 
-Results:
+# Results:
 
 
 <img width="806" alt="image" src="https://github.com/udaisharma99/Falling-into-a-Black-Hole/assets/138836370/a4ed4d27-67a0-4506-84ed-b07c78430a1c">
@@ -83,7 +84,8 @@ geodesic deviation equations within a two-dimensional spatial context. These
 equations pertain to the motion of a timelike geodesic as it descends towards
 the v=0 hypersurface
 
-Summary of the Research:
+# Summary of the Research:
+
 A cornerstone of this study lies in the insights drawn from prior research in
 the realm of black hole physics and spacetime singularities. The investigation
 starts with comprehending the nature of the singularity residing at the heart of
@@ -104,7 +106,8 @@ clear and concise formulation for these mathematical assertions. Through these
 concerted efforts, this study has bridged the gap in knowledge, enriching the
 discourse in this domain.
 
-Limitations of the Research:
+# Limitations of the Research:
+
 As with any study, the path undertaken in this research is not devoid of limitations. The limitations encompassed in this work—whether stemming from
 the scope of mathematical formalism, the intricacies of theoretical assumptions
 or time—serve as signposts for future explorations. These limitations, while
