@@ -28,7 +28,7 @@ a black hole in 2017, in this case the one residing at the heart of M87 Galaxy.
 Further, singularity theorems imply that a singularity is expected to develop
 inside a black hole. Even after such strong evidence of the existence of spacetime singularities, there is very little known about them. Hence, the study of
 singularities provides us with an opportunity to uncover a new layer of reality
-that emerges under extreme conditions of gravity
+that emerges under extreme conditions of gravity.
 
 # Research Methodology:
 
@@ -46,7 +46,7 @@ Wolfram Mathematica this study proves the mathematical framework that describes 
 that admit the presence of a null space-time singularity. The geodesic and
 geodesic deviation equations are formulated in a 2-dimensional space with the
 same constraints that were used to prove the existence of a weak space-time
-singularity
+singularity.
 
 # Results:
 
@@ -64,7 +64,7 @@ volume of these Jacobi fields at s=0 provides us a way to examine the nature
 of the singularity. In the case of a Schwarzchild black hole, The volume goes to
 zero at the point of singularity; the nature of the singularity is deemed to be
 strong and space-like. Further, we can look at the individual behaviour of the
-Jacobi fields at s=0 as well. Since,
+Jacobi fields at s=0 as well. 
 
 <img width="806" alt="image" src="https://github.com/udaisharma99/Falling-into-a-Black-Hole/assets/138836370/18a5a4f1-086f-4a1c-9e8b-06303df2a76a">
 
@@ -75,7 +75,7 @@ black hole will be infinitely stretched along the radial direction and will be
 completely crushed along the tangential and azimuthal directions. This phenomenon is called Spaghettification, where the tidal forces create a gradient of
 gravitational attraction across your body. The side of the body closer to the
 black hole experiences a stronger gravitational pull than the other side. This
-difference in gravitational pull can stretch and compress the body
+difference in gravitational pull can stretch and compress the body.
 
 Additionally, The study through meticulous mathematical analysis fills in the claims used by Ori and Flanagan to established the presence
 of a generic set of solutions to Einstein’s Field Equations. These solutions
