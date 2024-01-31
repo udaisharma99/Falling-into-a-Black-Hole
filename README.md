@@ -8,7 +8,7 @@ geodesic that encounters a singularity. The study answers the following question
 3. Can Einstein’s equations yield a generic class of solutions that admit a null and weak space-time singularity?
 4. What is the fate of an extended body as it moves along a time-like geodesic and falls into a null and weak space-time singularity?
 
-Motivation of Research:
+Motivation for Research:
 
 General relativity has been a well established theory for more than a hundred
 years, it provided a theoretical framework that revolutionised our knowledge
@@ -27,6 +27,24 @@ Further, singularity theorems imply that a singularity is expected to develop
 inside a black hole. Even after such strong evidence of the existence of spacetime singularities, there is very little known about them. Hence, the study of
 singularities provides us with an opportunity to uncover a new layer of reality
 that emerges under extreme conditions of gravity
+
+Research Approach:
+
+The study starts with getting to grips with the calculation of tensor’s associated
+with general relativity such as the Riemann curvature tensor and the Ricci tensor. Further, the geodesic equations and the geodesic deviation equations for a
+radially infalling time-like geodesic are formulated to understand the behaviour
+of the Jacobi fields as a body falls into a Schwarzchild singularity. The geodesic
+deviation equations provide us with a set of second order differential equations
+that describe the behaviour of Jacobi fields. We interpret these Jacobi fields to
+form a 3-dimensional body and assess the behaviour of the individual Jacobi
+fields by solving the second order differential equations which shows how the
+dimensions of the body change as it moves through the geodesic falling into the
+singularity. Moving ahead, through rigorous mathematical calculations using
+Wolfram Mathematica this study proves the mathematical framework that describes the existence of a generic class of solutions to the Einstein field equations
+that admit the presence of a null space-time singularity. The geodesic and
+geodesic deviation equations are formulated in a 2-dimensional space with the
+same constraints that were used to prove the existence of a weak space-time
+singularity
 
 Credits:
 
