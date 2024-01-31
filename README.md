@@ -1,5 +1,8 @@
 # Exploring the Nature of Black Hole Singularities: An Investigation into the Fate of an Infalling Observer
 
+<img width="363" alt="image" src="https://github.com/udaisharma99/Falling-into-a-Black-Hole/assets/138836370/5ead4d7a-b8ff-4bd6-9aa8-bcac542cb1b8">
+
+
 # Research Aim
 The study aims to understand the effects of these regions of extreme gravitational strength, i.e. singularities on an extended body following a time-like
 geodesic that encounters a singularity. The study answers the following questions:
