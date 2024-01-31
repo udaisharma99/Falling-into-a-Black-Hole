@@ -125,7 +125,7 @@ even greater depths of understanding in the captivating realm of theoretical
 physics.
 
 
-Credits:
+# References
 
 [1] Ori, A., & Flanagan, E. E. (1996). How generic are null spacetime singularities?. Physical Review D, 53(4), R1754.
 
